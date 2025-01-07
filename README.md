@@ -11,10 +11,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- PHP Manager
+- MySQL
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro </b> (22H2) - x64
+- Linux Ubuntu 24.04 - x64
 
 <h2>List of Prerequisites</h2>
 
