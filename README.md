@@ -24,4 +24,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Create directories for C:\PHP and install osTicket Installation files 
 - Install & configure SQL and PHP and confirm
 - Enable extensions in ISS
-- Finalize osTicket setup within the browser
+- Finalize osTicket setup within the browser and configure user permissions. 
