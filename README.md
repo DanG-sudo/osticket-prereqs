@@ -18,7 +18,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install/Enable IIS (internet information services)
+- Install/Enable IIS (Internet Information Services)
 - Create directories
 - Install & configure SQL and PHP
 - Enable extensions in ISS 
