@@ -18,9 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Install/Enable IIS (Internet Information Services)
-- Create directories
-- Install & configure SQL and PHP
+- Create an Azure Virtual Machine
+- Within the VM download osTicket installation files 
+- Install/Enable IIS <u> WITH CGI </u> (Internet Information Services)
+- Create directories for C:\PHP and install osTicket Installation files 
+- Install & configure SQL and PHP and confirm
 - Enable extensions in ISS 
 
 <h2>Installation Steps</h2>
